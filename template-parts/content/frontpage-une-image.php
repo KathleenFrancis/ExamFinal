@@ -21,7 +21,8 @@
 					echo wp_get_attachment_image( $image, $size );
 				}
 			?>
-			<?php the_title(); ?></a>
+			<p class=title_eve><?php the_title(); ?></p>
+		</a>
 		</figcaption>
     </figure>
     <div class="wp-block-media-text__content">

@@ -26,7 +26,7 @@
 			// add_post_meta($post_id, '_thumbnail_id', $attachment_id);
 			
 			?>
-			<?php the_title(); ?>
+			<p class='title_nouvelle'><?php the_title(); ?></p>
 		</a>
 	</figcaption>
 	</figure>
