@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*
- Theme Name:   Twenty nineteen Enfant
+ Theme Name:   Twenty nineteen kathleen
  Theme URI:    http://referenced.ca
  Description:  Twenty nineteen enfant Theme
  Author:       Eddy Martin
@@ -10,7 +10,7 @@
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
- Text Domain:  twenty-nineteen-enfant
+ Text Domain:  twenty-nineteen-kathleen
 */
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
@@ -703,32 +703,32 @@ body.page .main-navigation {
   font-size: 1.5em;
 }
 
-.liste-cours .session-1 {
-  background-color: #1c7742;
+.liste-cours .domaine-1 {
+  background-color: #2eb767;
   color: #fff;
 }
 
-.liste-cours .session-2 {
+.liste-cours .domaine-2 {
   background-color: #d3a145;
   color: #aaa;
 }
 
-.liste-cours .session-3 {
-  background-color: #2f2f97;
+.liste-cours .domaine-3 {
+  background-color: #151549;
   color: #fff;
 }
 
-.liste-cours .session-4 {
-  background-color: #948b36;
+.liste-cours .domaine-4 {
+  background-color: #afa441;
   color: #fff;
 }
 
-.liste-cours .session-5 {
+.liste-cours .domaine-5 {
   background-color: #97173d;
   color: #fff;
 }
 
-.liste-cours .session-6 {
+.liste-cours .domaine-6 {
   background-color: #251b04;
   color: #fff;
 }
